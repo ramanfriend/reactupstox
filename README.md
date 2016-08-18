@@ -9,3 +9,6 @@ npm install
 
 2. Run project 
 npm run dev
+
+3. Go to URL.
+http://localhost:8080
